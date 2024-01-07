@@ -1,10 +1,9 @@
-
-import './App.css';
+//import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>My first React APP</h1>
+    <div className="flex flex-col justify-center items-center">
+      <h1 className="text-center text-blue-900 font-bold text-[3rem]">tailwind integration</h1>
     </div>
   );
 }
